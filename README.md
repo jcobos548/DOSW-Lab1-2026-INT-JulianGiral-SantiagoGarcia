@@ -6,7 +6,7 @@
 
 Soy el candidato ideal ya que cuento con habilidades para trabajar en equipo y toma de decisiones, analisis y resolucion de problemas.
 
-<img width="1024" height="1536" alt="Hoja de vida - DOSW" src="https://github.com/user-attachments/assets/cb4c92e6-d5d4-4267-9ce4-1e8a8f0e4206" />
+<img width="900" height="1250" alt="Hoja de vida - DOSW" src="https://github.com/user-attachments/assets/cb4c92e6-d5d4-4267-9ce4-1e8a8f0e4206" />
 
 ¿Por que soy el candidato ideal para DOSW Company?
 
