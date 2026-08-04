@@ -11,3 +11,4 @@ Soy el candidato ideal ya que cuento con habilidades para trabajar en equipo y t
 ¿Por que soy el candidato ideal para DOSW Company?
 
 Yo me considero un gran candidato  ya que tengo los conocimientos basicos sobre programacion y tengo un gran interes en seguir aprendiendo. Tambien tengo experiencia trabajando en varios entornos de desarrollo como Intellij, VisualCode, Eclpse, etc. 
+gjhfcdutcutduytf
