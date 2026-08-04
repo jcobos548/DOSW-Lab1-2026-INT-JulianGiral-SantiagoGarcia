@@ -1,2 +1,4 @@
-package Laboratorio1.reto5;public class Reto5 {
+package Laboratorio1.reto5;
+
+public class Reto5 {
 }
